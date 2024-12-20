@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  gamma correction.cpp
+C:\Users\tarii\Desktop\OpenGL\26__6-2_Gamma Correction\26__6-2_Gamma Correction\gamma correction.cpp(117,33): error C2660: 'loadTexture': 함수는 1개의 인수를 사용하지 않습니다.
+      C:\Users\tarii\Desktop\OpenGL\26__6-2_Gamma Correction\26__6-2_Gamma Correction\gamma correction.cpp(22,14):
+      'loadTexture' 선언을 참조하십시오.
+      C:\Users\tarii\Desktop\OpenGL\26__6-2_Gamma Correction\26__6-2_Gamma Correction\gamma correction.cpp(117,33):
+      인수 목록 '(const char [28])'을(를) 일치시키는 동안
+  
+C:\Users\tarii\Desktop\OpenGL\26__6-2_Gamma Correction\26__6-2_Gamma Correction\gamma correction.cpp(118,47): error C2660: 'loadTexture': 함수는 1개의 인수를 사용하지 않습니다.
+      C:\Users\tarii\Desktop\OpenGL\26__6-2_Gamma Correction\26__6-2_Gamma Correction\gamma correction.cpp(22,14):
+      'loadTexture' 선언을 참조하십시오.
+      C:\Users\tarii\Desktop\OpenGL\26__6-2_Gamma Correction\26__6-2_Gamma Correction\gamma correction.cpp(118,47):
+      인수 목록 '(const char [28])'을(를) 일치시키는 동안
+  
