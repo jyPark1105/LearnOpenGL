@@ -19,3 +19,6 @@ This repository is based on the official OpenGL tutorial site **[LearnOpenGL]**(
 - Others:
   - GLFW: **3.3**
   - Assimp: **5.4.3**
+
+# Points to Consider 
+From the Models section onward, the **assimp-vc143-mtd.dll** file (dynamic library) must be copied to the directory **where the application is located** before running it. Note that the Model and Mesh classes are consistently used starting from **project 15**, so keep this in mind.
