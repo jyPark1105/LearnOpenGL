@@ -10,7 +10,12 @@ This repository is based on the official OpenGL tutorial site **[LearnOpenGL]**(
   - Mapping 3D coordinates to 2D screen space
   - Comprehending advanced rendering techniques
   - Exploring additional applications and innovations in the field
- 
+
+# Learning Progress
+Start Date: `2024/11/03`
+End Date: **Currently in progress**
+Number of iterations: 0
+
 # Version
 - OpenGL: **3.3**
 - CMake: **3.31.0**
