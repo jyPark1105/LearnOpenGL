@@ -1,0 +1,6 @@
+﻿  glad.c
+  shader.cpp
+  transformation.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\tarii\Desktop\OpenGL\05__2-7_Transformations\x64\Debug\5_Transformations.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  5_Transformations.vcxproj -> C:\Users\tarii\Desktop\OpenGL\05__2-7_Transformations\x64\Debug\5_Transformations.exe
