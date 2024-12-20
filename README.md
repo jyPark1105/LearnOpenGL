@@ -21,10 +21,14 @@ This repository is based on the official OpenGL tutorial site **[LearnOpenGL]**(
   - Assimp: **5.4.3**
 
 # Points to Consider 
-- You need to set **the Include Directories** and **Library Directories** to **the includes folder** and **lib folder** respectively, located in **the directory containing the root directories of the projects**.
+### Assuming the directory containing all projects, along with other directories and files, is located at C:\Users\<username>\Desktop\OpenGL, proceed as follows.
+- You need to set the **Include Directories** and **Library Directories** to **the includes folder** and **lib folder** respectively, located in **the directory containing the root directories of the projects**.
   - In **Project Properties → Configuration Properties → VC++ Directories**
+    - Include Directories: Enter **"C:\Users\<user_name>\Desktop\OpenGL\includes"**
+    - Library Directories: Enter **"C:\Users\<user_name>\Desktop\OpenGL\lib"**
 - Additionally, you need to add **glfw3.lib; opengl32.lib; assimp-vc143-mtd.lib;**.
   - In **Project Properties → Configuration Properties → Linker → Input → Additional Dependencies**
 - From the Models section onward, the **assimp-vc143-mtd.dll** file (dynamic library) must be copied to the directory **where the application is located** before running it. Note that the Model and Mesh classes are consistently used starting from **project 15**, so keep this in mind. And then starting from project 15, you need to set **the Output Directory**.
   - In **Project Properties → Configuration Properties → General → Output Directory** to **the directory where the corresponding .cpp file is located**
+    - Output Directory: Enter **"C:\Users\<user_name>\Desktop\OpenGL\<project_name>\<project_name>"**, if you didn't check the option **"Place solution and project in the same directory"** when creating a new project. (In my case, I configured it this way.)
 - The **glad.c** file must also be added to the **'Source Files' section** of the project.
