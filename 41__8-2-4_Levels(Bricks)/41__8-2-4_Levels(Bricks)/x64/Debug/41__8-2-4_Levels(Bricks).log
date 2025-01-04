@@ -1,0 +1,9 @@
+﻿  game.cpp
+  game_level.cpp
+C:\Users\tarii\Desktop\OpenGL\41__8-2-4_Levels(Bricks)\41__8-2-4_Levels(Bricks)\game_level.cpp(58,25): warning C4267: '초기화 중': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tarii\Desktop\OpenGL\41__8-2-4_Levels(Bricks)\41__8-2-4_Levels(Bricks)\game_level.cpp(59,24): warning C4267: '초기화 중': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tarii\Desktop\OpenGL\41__8-2-4_Levels(Bricks)\41__8-2-4_Levels(Bricks)\game_level.cpp(60,76): warning C4244: '초기화 중': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  program.cpp
+C:\Users\tarii\Desktop\OpenGL\41__8-2-4_Levels(Bricks)\41__8-2-4_Levels(Bricks)\program.cpp(72,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  41__8-2-4_Levels(Bricks).vcxproj -> C:\Users\tarii\Desktop\OpenGL\41__8-2-4_Levels(Bricks)\41__8-2-4_Levels(Bricks)\41__8-2-4_Levels(Bricks).exe
