@@ -46,7 +46,7 @@ Set the **Include Directories** and **Library Directories** to the `includes` an
 ### 2. Adding Dependencies
 Add the following libraries to **Additional Dependencies**:
 - **Dependencies**:
-  `glfw3.lib; opengl32.lib; assimp-vc143-mtd.lib;freetype.lib;irrKlang.lib;`
+  `glfw3.lib; opengl32.lib; assimp-vc143-mtd.lib; freetype.lib; irrKlang.lib;`
 - **Configuration Path**:
 `Project Properties → Configuration Properties → Linker → Input → Additional Dependencies`
 
