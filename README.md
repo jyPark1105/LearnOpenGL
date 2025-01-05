@@ -50,7 +50,7 @@ Add the following libraries to **Additional Dependencies**:
 - **Configuration Path**:
 `Project Properties → Configuration Properties → Linker → Input → Additional Dependencies`
 
-####**The include folder and library folder are uploaded in compressed ZIP format**.
+#### **The include folder and library folder are uploaded in compressed ZIP format**.
 --------------------------------------------------
 ### 3. Dynamic Library (DLL) Setup
 From the **each section onward**:
