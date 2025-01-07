@@ -17,8 +17,8 @@ This repository is based on the official OpenGL tutorial site **[LearnOpenGL]**(
 - End Date: `2025/01/05`
 - Number of iterations: `1`
 
-# Version
-- OpenGL & GLFW: **3.3**
+# Version(Project 1 ~ 47)
+- OpenGL & GLFW & GLAD: **3.3**
 - CMake: **3.31.0**
 - IDE: **Visual Studio 2022**
 - Math Library: **glm-0.9.8.0**
@@ -26,10 +26,21 @@ This repository is based on the official OpenGL tutorial site **[LearnOpenGL]**(
   - Assimp: **5.4.3**
   - FreeType: **2.13.3**
   - irrKlang: **1.6.0**
-    
+
+# Version(After Project 48)
+- OpenGL & GLFW & GLAD: **4.6**
+- CMake: **3.31.0**
+- IDE: **Visual Studio 2022**
+- Math Library: **glm-1.0.1**
+- Others:
+  - Assimp: **5.4.3**
+  - FreeType: **2.13.3**
+  - irrKlang: **1.6.0**
+
 # Points to Consider 
-Assuming the directory containing all projects, along with other directories and files, is located at:
+- Assuming the directory containing all projects, along with other directories and files, is located at:
 `C:\Users\<username>\Desktop\OpenGL`
+- Projects with folder names containing "GA" represent additional content for the "Guest Article" section, starting from project 48 onwards.
 
 Follow the steps below for proper configuration:
 --------------------------------------------------
