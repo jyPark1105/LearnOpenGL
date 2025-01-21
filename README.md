@@ -16,6 +16,10 @@ This repository is based on the official OpenGL tutorial site **[LearnOpenGL]**(
 - Start Date: `2024/11/03`
 - End Date: `2025/01/05`
 - Number of iterations: `1`
+- **Study Progress by Review Cycle(Aspirations)**
+  - 1st Review: Focus on understanding by running OpenGL code directly in Visual Studio 2022.
+  - 2nd Review: Reinforce foundational graphics concepts through thorough review.
+  - 3rd Review: Practice immediate comprehension by reading the original English text.
 
 # Version(Project 1 ~ 47)
 - OpenGL & GLFW & GLAD: **3.3**
@@ -28,7 +32,7 @@ This repository is based on the official OpenGL tutorial site **[LearnOpenGL]**(
   - irrKlang: **1.6.0**
 
 # Version(After Project 48)
-- OpenGL & GLFW & GLAD: **4.6**
+- OpenGL & GLFW & GLAD: **Between 3.3 and 4.6**
 - CMake: **3.31.0**
 - IDE: **Visual Studio 2022**
 - Math Library: **glm-1.0.1**
