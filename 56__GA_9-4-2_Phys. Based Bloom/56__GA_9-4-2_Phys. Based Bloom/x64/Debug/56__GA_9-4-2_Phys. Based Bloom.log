@@ -1,0 +1,47 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  Bloom with Phys.cpp
+C:\Users\tarii\Desktop\OpenGL_4.6ver\includes\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Bloom%20with%20Phys.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,46): warning C4244: '인수': 'const T'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,46): warning C4244:         with
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,46): warning C4244:         [
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,46): warning C4244:             T=float
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,46): warning C4244:         ]
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,34): warning C4244: '인수': 'const T'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,34): warning C4244:         with
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,34): warning C4244:         [
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,34): warning C4244:             T=float
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(238,34): warning C4244:         ]
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,54): warning C4244: '인수': 'const T'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,54): warning C4244:         with
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,54): warning C4244:         [
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,54): warning C4244:             T=float
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,54): warning C4244:         ]
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,38): warning C4244: '인수': 'const T'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,38): warning C4244:         with
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,38): warning C4244:         [
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,38): warning C4244:             T=float
+C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\Bloom with Phys.cpp(278,38): warning C4244:         ]
+glfw3.lib(init.obj) : warning LNK4099: '' PDB를 'glfw3.lib(init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(window.obj) : warning LNK4099: '' PDB를 'glfw3.lib(window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(input.obj) : warning LNK4099: '' PDB를 'glfw3.lib(input.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_time.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_time.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_thread.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_thread.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(platform.obj) : warning LNK4099: '' PDB를 'glfw3.lib(platform.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(monitor.obj) : warning LNK4099: '' PDB를 'glfw3.lib(monitor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(vulkan.obj) : warning LNK4099: '' PDB를 'glfw3.lib(vulkan.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_init.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_init.obj) : warning LNK4099: '' PDB를 'glfw3.lib(null_init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_module.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_module.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_monitor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_window.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_joystick.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(wgl_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(wgl_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(egl_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(egl_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(osmesa_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(osmesa_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_monitor.obj) : warning LNK4099: '' PDB를 'glfw3.lib(null_monitor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_window.obj) : warning LNK4099: '' PDB를 'glfw3.lib(null_window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(null_joystick.obj) : warning LNK4099: '' PDB를 'glfw3.lib(null_joystick.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  56__GA_9-4-2_Phys. Based Bloom.vcxproj -> C:\Users\tarii\Desktop\OpenGL_4.6ver\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom\56__GA_9-4-2_Phys. Based Bloom.exe
